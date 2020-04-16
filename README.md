@@ -1,1 +1,1 @@
-my final project in course
+my final project is a blog
